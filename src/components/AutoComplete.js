@@ -11,6 +11,8 @@ Optimizations:-
 6. Error Handling
 7. Manual Retry Button
 8. Automatic deletion of Cache on unmounting of component
+9. UI/UX
+10. Accessbility - Screen Readers and Keyboard Navigations
 */
 const AutoComplete = () => {
   const [inputValue, setInputValue] = useState("");
